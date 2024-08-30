@@ -69,11 +69,18 @@
 
 .shimmer-card {
     height: 400px;
-    width: 200px;
+    width: 192px;
     background-color: #f0f0f0;
-    margin: 5px;
+    margin: 35px 5px 5px 5px;
     padding: 5px;
     border: 1px solid #f0f0f0;
     cursor: pointer;
+}
+
+.top-bar{
+    display: flex;
+}
+.search-btn{
+    margin: 5px;
 }
 
